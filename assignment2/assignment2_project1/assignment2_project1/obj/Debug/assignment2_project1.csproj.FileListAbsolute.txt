@@ -1,0 +1,7 @@
+D:\C#program\assignment2_project1\assignment2_project1\bin\Debug\assignment2_project1.exe.config
+D:\C#program\assignment2_project1\assignment2_project1\bin\Debug\assignment2_project1.exe
+D:\C#program\assignment2_project1\assignment2_project1\bin\Debug\assignment2_project1.pdb
+D:\C#program\assignment2_project1\assignment2_project1\obj\Debug\assignment2_project1.csproj.AssemblyReference.cache
+D:\C#program\assignment2_project1\assignment2_project1\obj\Debug\assignment2_project1.csproj.CoreCompileInputs.cache
+D:\C#program\assignment2_project1\assignment2_project1\obj\Debug\assignment2_project1.exe
+D:\C#program\assignment2_project1\assignment2_project1\obj\Debug\assignment2_project1.pdb
